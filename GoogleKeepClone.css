@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+    
+}
+body{
+    background-image: url(gkbackimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+   
+.card{
+    margin:50px;
+    padding: 10px;
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 0.8;
+}
+.card-body{
+    height: 200px;
+    /* background-image: url(images.jpg); */
+    
+}
